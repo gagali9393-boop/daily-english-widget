@@ -1,0 +1,38 @@
+name: Build DailyEnglish Windows EXE
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install PyInstaller
+        run: python -m pip install --upgrade pyinstaller
+
+      - name: Build standalone EXE
+        run: |
+          pyinstaller --noconfirm --clean --onefile --windowed --name DailyEnglish --add-data "quotes.json;." english_widget.py
+
+      - name: Upload EXE
+        uses: actions/upload-artifact@v4
+        with:
+          name: DailyEnglish-Windows-x64
+          path: dist/DailyEnglish.exe
+          if-no-files-found: error
+          retention-days: 30
