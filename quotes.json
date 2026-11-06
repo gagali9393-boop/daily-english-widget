@@ -1,0 +1,992 @@
+[
+  {
+    "category": "日常英语",
+    "english": "Every day is a new chance to learn something.",
+    "chinese": "每一天都是学习新事物的新机会。",
+    "word": "chance",
+    "phonetic": "/tʃɑːns/",
+    "meaning": "机会；可能性",
+    "example": "This is a great chance to improve my English.",
+    "example_cn": "这是提升英语的好机会。"
+  },
+  {
+    "category": "日常英语",
+    "english": "Small steps every day lead to big changes.",
+    "chinese": "每天一小步，最终会带来大改变。",
+    "word": "change",
+    "phonetic": "/tʃeɪndʒ/",
+    "meaning": "改变；变化",
+    "example": "I want to make a positive change.",
+    "example_cn": "我想做出积极的改变。"
+  },
+  {
+    "category": "日常英语",
+    "english": "I am getting better at expressing myself.",
+    "chinese": "我正在变得更善于表达自己。",
+    "word": "express",
+    "phonetic": "/ɪkˈspres/",
+    "meaning": "表达；表述",
+    "example": "It's important to express your ideas clearly.",
+    "example_cn": "清楚地表达自己的想法很重要。"
+  },
+  {
+    "category": "日常英语",
+    "english": "Don't be afraid to make mistakes.",
+    "chinese": "不要害怕犯错。",
+    "word": "mistake",
+    "phonetic": "/mɪˈsteɪk/",
+    "meaning": "错误；失误",
+    "example": "Making mistakes is part of learning.",
+    "example_cn": "犯错是学习的一部分。"
+  },
+  {
+    "category": "澳洲求职",
+    "english": "I am looking for a casual job in a cafe.",
+    "chinese": "我正在寻找一份咖啡馆的临时工作。",
+    "word": "casual",
+    "phonetic": "/ˈkæʒuəl/",
+    "meaning": "临时的；非全职固定的",
+    "example": "I am available for casual shifts on weekends.",
+    "example_cn": "我周末可以上临时班。"
+  },
+  {
+    "category": "澳洲求职",
+    "english": "I learn quickly and enjoy working with people.",
+    "chinese": "我学习能力强，也喜欢与人打交道。",
+    "word": "quickly",
+    "phonetic": "/ˈkwɪkli/",
+    "meaning": "快速地",
+    "example": "I can learn new tasks quickly.",
+    "example_cn": "我能很快学会新任务。"
+  },
+  {
+    "category": "澳洲求职",
+    "english": "Could you tell me a little about the role?",
+    "chinese": "你能给我介绍一下这个职位吗？",
+    "word": "role",
+    "phonetic": "/rəʊl/",
+    "meaning": "职位；角色",
+    "example": "I am interested in this role.",
+    "example_cn": "我对这个职位很感兴趣。"
+  },
+  {
+    "category": "咖啡馆英语",
+    "english": "Would you like that takeaway or for here?",
+    "chinese": "您要打包带走还是在这里用？",
+    "word": "takeaway",
+    "phonetic": "/ˈteɪkəweɪ/",
+    "meaning": "外带；外卖（澳洲常用）",
+    "example": "One flat white takeaway, please.",
+    "example_cn": "请给我一杯外带馥芮白。"
+  },
+  {
+    "category": "咖啡馆英语",
+    "english": "What can I get for you today?",
+    "chinese": "今天您想点些什么？",
+    "word": "order",
+    "phonetic": "/ˈɔːdə(r)/",
+    "meaning": "点单；订单",
+    "example": "Are you ready to order?",
+    "example_cn": "您准备好点单了吗？"
+  },
+  {
+    "category": "雅思词汇",
+    "english": "Consistent effort is more effective than occasional intensity.",
+    "chinese": "持续的努力比偶尔的高强度投入更有效。",
+    "word": "consistent",
+    "phonetic": "/kənˈsɪstənt/",
+    "meaning": "持续的；始终如一的",
+    "example": "Consistent practice improves fluency.",
+    "example_cn": "持续练习能提升流利度。"
+  },
+  {
+    "category": "文学与哲学",
+    "english": "The journey of a thousand miles begins with a single step.",
+    "chinese": "千里之行，始于足下。",
+    "word": "journey",
+    "phonetic": "/ˈdʒɜːni/",
+    "meaning": "旅程；过程",
+    "example": "Learning a language is a long journey.",
+    "example_cn": "学习一门语言是一段漫长的旅程。"
+  },
+  {
+    "category": "文学与哲学",
+    "english": "When the pain is over, the memory of it often becomes a pleasure.",
+    "chinese": "当痛苦过去，对它的回忆往往会变成一种愉悦。",
+    "word": "memory",
+    "phonetic": "/ˈmeməri/",
+    "meaning": "记忆；回忆",
+    "example": "I have a vivid memory of that day.",
+    "example_cn": "那一天我记忆犹新。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The questions we ask shape the lives we lead.",
+    "chinese": "我们提出什么问题，往往就会过怎样的人生。",
+    "word": "shape",
+    "phonetic": "/ʃeɪp/",
+    "meaning": "塑造；形成",
+    "example": "Your habits shape your future.",
+    "example_cn": "你的习惯塑造你的未来。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A quiet mind can hear what a busy world cannot.",
+    "chinese": "安静的内心，才能听见喧嚣世界听不见的东西。",
+    "word": "quiet",
+    "phonetic": "/ˈkwaɪət/",
+    "meaning": "安静的；平静的",
+    "example": "I need a quiet place to think.",
+    "example_cn": "我需要一个安静的地方思考。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Not every open door is meant to be entered.",
+    "chinese": "并不是每一扇敞开的门都值得走进去。",
+    "word": "meant",
+    "phonetic": "/ment/",
+    "meaning": "注定的；有意的",
+    "example": "This moment was meant to teach me something.",
+    "example_cn": "这一刻注定会教会我一些东西。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "You cannot change the wind, but you can adjust your sails.",
+    "chinese": "你无法改变风向，但可以调整自己的船帆。",
+    "word": "adjust",
+    "phonetic": "/əˈdʒʌst/",
+    "meaning": "调整；适应",
+    "example": "We must adjust our plans.",
+    "example_cn": "我们必须调整计划。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The life you want is built by the choices you make today.",
+    "chinese": "你想要的人生，是由今天的选择一点点建成的。",
+    "word": "choice",
+    "phonetic": "/tʃɔɪs/",
+    "meaning": "选择",
+    "example": "Every choice has a consequence.",
+    "example_cn": "每个选择都有结果。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Sometimes growth feels like losing the person you used to be.",
+    "chinese": "有时，成长就像失去曾经的自己。",
+    "word": "growth",
+    "phonetic": "/ɡrəʊθ/",
+    "meaning": "成长；发展",
+    "example": "Personal growth takes time.",
+    "example_cn": "个人成长需要时间。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Peace begins when the need to prove yourself ends.",
+    "chinese": "当你不再急于证明自己，内心的平静才真正开始。",
+    "word": "prove",
+    "phonetic": "/pruːv/",
+    "meaning": "证明",
+    "example": "You don't need to prove your worth to everyone.",
+    "example_cn": "你不需要向所有人证明自己的价值。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A meaningful life is not always a comfortable one.",
+    "chinese": "有意义的人生，并不总是舒适的人生。",
+    "word": "meaningful",
+    "phonetic": "/ˈmiːnɪŋfəl/",
+    "meaning": "有意义的",
+    "example": "I want to do meaningful work.",
+    "example_cn": "我想做有意义的工作。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "What you give your attention to becomes your world.",
+    "chinese": "你把注意力放在哪里，哪里就会成为你的世界。",
+    "word": "attention",
+    "phonetic": "/əˈtenʃən/",
+    "meaning": "注意力；关注",
+    "example": "Pay attention to what matters.",
+    "example_cn": "关注真正重要的事情。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The courage to begin is often greater than the strength to continue.",
+    "chinese": "开始的勇气，有时比坚持的力量更难得。",
+    "word": "courage",
+    "phonetic": "/ˈkʌrɪdʒ/",
+    "meaning": "勇气",
+    "example": "It takes courage to start again.",
+    "example_cn": "重新开始需要勇气。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "You are allowed to outgrow the dreams you once had.",
+    "chinese": "你可以长大到不再需要曾经的梦想。",
+    "word": "outgrow",
+    "phonetic": "/ˌaʊtˈɡrəʊ/",
+    "meaning": "成长到不再适合",
+    "example": "People change as they grow.",
+    "example_cn": "人在成长中会改变。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Time does not heal everything; sometimes it teaches us how to carry it.",
+    "chinese": "时间并不能治愈一切；有时它只是教会我们如何带着伤痛继续生活。",
+    "word": "carry",
+    "phonetic": "/ˈkæri/",
+    "meaning": "承受；携带",
+    "example": "We all carry memories with us.",
+    "example_cn": "我们都带着回忆生活。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A person becomes free when fear no longer makes their decisions.",
+    "chinese": "当恐惧不再替你做决定，你才真正自由。",
+    "word": "decision",
+    "phonetic": "/dɪˈsɪʒən/",
+    "meaning": "决定",
+    "example": "Make your own decisions.",
+    "example_cn": "做出你自己的决定。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The truth may be uncomfortable, but illusion is expensive.",
+    "chinese": "真相或许令人不适，但幻觉的代价更高。",
+    "word": "illusion",
+    "phonetic": "/ɪˈluːʒən/",
+    "meaning": "错觉；幻想",
+    "example": "It is easy to live in an illusion.",
+    "example_cn": "活在幻想里很容易。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Do not confuse being busy with moving forward.",
+    "chinese": "不要把忙碌误认为前进。",
+    "word": "confuse",
+    "phonetic": "/kənˈfjuːz/",
+    "meaning": "混淆；弄错",
+    "example": "Don't confuse confidence with arrogance.",
+    "example_cn": "不要把自信和傲慢混为一谈。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The hardest distance to travel is the distance between knowing and doing.",
+    "chinese": "最难跨越的距离，是知道与做到之间的距离。",
+    "word": "distance",
+    "phonetic": "/ˈdɪstəns/",
+    "meaning": "距离",
+    "example": "There is a long distance between plans and action.",
+    "example_cn": "计划与行动之间还有很长的距离。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Your worth does not decrease when someone fails to see it.",
+    "chinese": "别人看不见你的价值，并不意味着你的价值减少了。",
+    "word": "decrease",
+    "phonetic": "/dɪˈkriːs/",
+    "meaning": "减少；降低",
+    "example": "The risk may decrease over time.",
+    "example_cn": "风险可能会随着时间降低。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Loneliness is not always the absence of people; sometimes it is the absence of connection.",
+    "chinese": "孤独不总是身边没有人，有时是缺少真正的连接。",
+    "word": "connection",
+    "phonetic": "/kəˈnekʃən/",
+    "meaning": "联系；连接",
+    "example": "A real connection takes time.",
+    "example_cn": "真正的连接需要时间。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "We often suffer more in imagination than in reality.",
+    "chinese": "我们常常在想象中承受的痛苦，比现实中更多。",
+    "word": "imagination",
+    "phonetic": "/ɪˌmædʒɪˈneɪʃən/",
+    "meaning": "想象力；想象",
+    "example": "Imagination can make fear feel real.",
+    "example_cn": "想象会让恐惧变得真实。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Happiness grows when comparison becomes less important.",
+    "chinese": "当比较不再那么重要，幸福感便开始生长。",
+    "word": "comparison",
+    "phonetic": "/kəmˈpærɪsən/",
+    "meaning": "比较",
+    "example": "Constant comparison steals joy.",
+    "example_cn": "不断比较会偷走快乐。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "To understand yourself, notice what you keep avoiding.",
+    "chinese": "想要了解自己，就留意那些你一直在逃避的事。",
+    "word": "avoid",
+    "phonetic": "/əˈvɔɪd/",
+    "meaning": "逃避；避免",
+    "example": "I try not to avoid difficult conversations.",
+    "example_cn": "我尽量不逃避困难的对话。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A strong life is not free of storms; it learns how to stand in them.",
+    "chinese": "强大的人生并非没有风暴，而是学会在风暴中站稳。",
+    "word": "strong",
+    "phonetic": "/strɒŋ/",
+    "meaning": "强大的；坚强的",
+    "example": "She stayed strong during a difficult time.",
+    "example_cn": "困难时期她依然坚强。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The value of a moment is often clear only after it has passed.",
+    "chinese": "一个瞬间的价值，往往要等它过去之后才看得清。",
+    "word": "value",
+    "phonetic": "/ˈvæljuː/",
+    "meaning": "价值",
+    "example": "We should value the time we have.",
+    "example_cn": "我们应该珍惜拥有的时间。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "You do not find your direction by standing still forever.",
+    "chinese": "你不可能永远站在原地，却期待找到方向。",
+    "word": "direction",
+    "phonetic": "/dəˈrekʃən/",
+    "meaning": "方向",
+    "example": "I am still finding my direction.",
+    "example_cn": "我仍在寻找自己的方向。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Let your principles be stronger than your moods.",
+    "chinese": "让你的原则比情绪更坚定。",
+    "word": "principle",
+    "phonetic": "/ˈprɪnsəpəl/",
+    "meaning": "原则",
+    "example": "Honesty is one of my core principles.",
+    "example_cn": "诚实是我的核心原则之一。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Some endings are simply beginnings without familiar names.",
+    "chinese": "有些结束，不过是换了名字的开始。",
+    "word": "familiar",
+    "phonetic": "/fəˈmɪliə(r)/",
+    "meaning": "熟悉的",
+    "example": "The new place feels familiar now.",
+    "example_cn": "这个新地方现在感觉熟悉了。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The ability to pause is also a form of strength.",
+    "chinese": "懂得暂停，也是一种力量。",
+    "word": "ability",
+    "phonetic": "/əˈbɪləti/",
+    "meaning": "能力",
+    "example": "The ability to listen is important.",
+    "example_cn": "倾听的能力很重要。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A clear purpose makes difficult days easier to endure.",
+    "chinese": "清晰的目标，会让艰难的日子更容易熬过去。",
+    "word": "purpose",
+    "phonetic": "/ˈpɜːpəs/",
+    "meaning": "目标；意义",
+    "example": "I am still discovering my purpose.",
+    "example_cn": "我仍在寻找自己的人生目标。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "You can miss the past without wanting to return to it.",
+    "chinese": "你可以怀念过去，却不必想回到过去。",
+    "word": "return",
+    "phonetic": "/rɪˈtɜːn/",
+    "meaning": "返回；回归",
+    "example": "I don't want to return to my old habits.",
+    "example_cn": "我不想回到以前的习惯。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Wisdom begins with the willingness to question yourself.",
+    "chinese": "智慧始于愿意质疑自己。",
+    "word": "willingness",
+    "phonetic": "/ˈwɪlɪŋnəs/",
+    "meaning": "意愿；乐意",
+    "example": "Learning requires a willingness to change.",
+    "example_cn": "学习需要改变的意愿。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The more you understand, the less you need to judge.",
+    "chinese": "理解得越多，需要评判的就越少。",
+    "word": "judge",
+    "phonetic": "/dʒʌdʒ/",
+    "meaning": "评判；判断",
+    "example": "Try not to judge people too quickly.",
+    "example_cn": "尽量不要太快评判别人。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A life of meaning is made of ordinary moments lived with care.",
+    "chinese": "有意义的人生，是由认真对待的平凡时刻组成的。",
+    "word": "ordinary",
+    "phonetic": "/ˈɔːdnri/",
+    "meaning": "平凡的；普通的",
+    "example": "An ordinary day can become special.",
+    "example_cn": "平凡的一天也可以变得特别。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "You cannot control every outcome, but you can choose your response.",
+    "chinese": "你无法控制每一种结果，但可以选择自己的回应。",
+    "word": "outcome",
+    "phonetic": "/ˈaʊtkʌm/",
+    "meaning": "结果",
+    "example": "We cannot predict every outcome.",
+    "example_cn": "我们无法预测所有结果。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Regret often points toward something we deeply value.",
+    "chinese": "遗憾往往指向我们内心真正珍视的东西。",
+    "word": "regret",
+    "phonetic": "/rɪˈɡret/",
+    "meaning": "遗憾；后悔",
+    "example": "I regret not taking that opportunity.",
+    "example_cn": "我后悔没有抓住那个机会。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The mind becomes lighter when it stops carrying every opinion.",
+    "chinese": "当你不再背负每一种评价，内心就会轻盈许多。",
+    "word": "opinion",
+    "phonetic": "/əˈpɪnjən/",
+    "meaning": "观点；看法",
+    "example": "Everyone has a different opinion.",
+    "example_cn": "每个人都有不同的看法。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A better question can change the direction of an entire day.",
+    "chinese": "一个更好的问题，就能改变一整天的方向。",
+    "word": "entire",
+    "phonetic": "/ɪnˈtaɪə(r)/",
+    "meaning": "整个的；全部的",
+    "example": "I spent the entire day reading.",
+    "example_cn": "我整整一天都在阅读。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Do not let a temporary feeling make a permanent decision.",
+    "chinese": "不要让一时的情绪，替你做永久的决定。",
+    "word": "temporary",
+    "phonetic": "/ˈtemprəri/",
+    "meaning": "暂时的",
+    "example": "This difficulty is temporary.",
+    "example_cn": "眼前的困难只是暂时的。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The world opens up when curiosity becomes stronger than judgment.",
+    "chinese": "当好奇心胜过评判，世界便会向你敞开。",
+    "word": "curiosity",
+    "phonetic": "/ˌkjʊəriˈɒsəti/",
+    "meaning": "好奇心",
+    "example": "Curiosity helps us keep learning.",
+    "example_cn": "好奇心帮助我们持续学习。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Sometimes the most honest progress is learning to begin again.",
+    "chinese": "有时，最真实的进步就是学会重新开始。",
+    "word": "honest",
+    "phonetic": "/ˈɒnɪst/",
+    "meaning": "诚实的；真实的",
+    "example": "Be honest about what you need.",
+    "example_cn": "诚实面对自己的需求。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Freedom is not doing everything you want; it is knowing what is worth wanting.",
+    "chinese": "自由不是想做什么就做什么，而是知道什么值得追求。",
+    "word": "freedom",
+    "phonetic": "/ˈfriːdəm/",
+    "meaning": "自由",
+    "example": "Freedom also comes with responsibility.",
+    "example_cn": "自由也伴随着责任。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The future is shaped less by wishes than by repeated actions.",
+    "chinese": "未来更多是由重复的行动塑造，而不是愿望。",
+    "word": "repeated",
+    "phonetic": "/rɪˈpiːtɪd/",
+    "meaning": "重复的",
+    "example": "Repeated practice builds confidence.",
+    "example_cn": "反复练习能建立自信。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "To be patient is to trust a process you cannot yet see.",
+    "chinese": "耐心，就是相信一个暂时还看不见结果的过程。",
+    "word": "process",
+    "phonetic": "/ˈprəʊses/",
+    "meaning": "过程",
+    "example": "Learning is a process, not a race.",
+    "example_cn": "学习是一个过程，不是一场比赛。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "You do not need to have everything figured out to take the next step.",
+    "chinese": "你不必把一切都想明白，才能迈出下一步。",
+    "word": "figure out",
+    "phonetic": "/ˈfɪɡə(r) aʊt/",
+    "meaning": "弄明白；想清楚",
+    "example": "I am trying to figure out what matters to me.",
+    "example_cn": "我正在弄清楚什么对我真正重要。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The deepest confidence is quiet; it does not ask to be noticed.",
+    "chinese": "最深沉的自信是安静的，它不需要别人注意。",
+    "word": "confidence",
+    "phonetic": "/ˈkɒnfɪdəns/",
+    "meaning": "自信；信心",
+    "example": "Confidence grows through experience.",
+    "example_cn": "自信来自经验的积累。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "What you refuse to face often continues to shape you.",
+    "chinese": "你拒绝面对的事情，往往仍在持续塑造你。",
+    "word": "refuse",
+    "phonetic": "/rɪˈfjuːz/",
+    "meaning": "拒绝",
+    "example": "I refuse to give up on learning.",
+    "example_cn": "我拒绝放弃学习。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A good life is not measured only by what you achieve, but by who you become.",
+    "chinese": "好的人生不仅由成就衡量，也由你成为了怎样的人来衡量。",
+    "word": "measure",
+    "phonetic": "/ˈmeʒə(r)/",
+    "meaning": "衡量；测量",
+    "example": "Success is difficult to measure.",
+    "example_cn": "成功很难衡量。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "There is strength in accepting what cannot be changed.",
+    "chinese": "接纳无法改变的事情，本身就需要力量。",
+    "word": "accept",
+    "phonetic": "/əkˈsept/",
+    "meaning": "接受；接纳",
+    "example": "I am learning to accept uncertainty.",
+    "example_cn": "我正在学习接纳不确定性。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The art of living is knowing when to hold on and when to let go.",
+    "chinese": "生活的艺术，在于懂得何时坚持，何时放手。",
+    "word": "let go",
+    "phonetic": "/let ɡəʊ/",
+    "meaning": "放手；释怀",
+    "example": "Sometimes you have to let go.",
+    "example_cn": "有时你必须学会放手。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Your attention is your life in miniature.",
+    "chinese": "你的注意力，就是你人生的缩影。",
+    "word": "miniature",
+    "phonetic": "/ˈmɪnətʃə(r)/",
+    "meaning": "缩影；微型",
+    "example": "This story is a miniature of human life.",
+    "example_cn": "这个故事是人类生活的缩影。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Meaning is not always found; sometimes it is created.",
+    "chinese": "意义并不总是被发现的，有时它是由我们创造的。",
+    "word": "create",
+    "phonetic": "/kriˈeɪt/",
+    "meaning": "创造",
+    "example": "We can create meaning through our actions.",
+    "example_cn": "我们可以通过行动创造意义。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The person you become is built in the moments no one applauds.",
+    "chinese": "没有掌声的那些时刻，正在塑造未来的你。",
+    "word": "applaud",
+    "phonetic": "/əˈplɔːd/",
+    "meaning": "鼓掌；赞赏",
+    "example": "You don't need applause to keep going.",
+    "example_cn": "继续前进不需要掌声。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A peaceful heart is not one that has no questions, but one that can live with them.",
+    "chinese": "平静的心并非没有疑问，而是能够与疑问共处。",
+    "word": "peaceful",
+    "phonetic": "/ˈpiːsfəl/",
+    "meaning": "平静的；安宁的",
+    "example": "A peaceful mind helps me focus.",
+    "example_cn": "平静的心态帮助我专注。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The limits we accept can become the walls we live behind.",
+    "chinese": "我们接受的限制，可能最终成为困住自己的墙。",
+    "word": "limit",
+    "phonetic": "/ˈlɪmɪt/",
+    "meaning": "限制；界限",
+    "example": "Don't let fear set your limits.",
+    "example_cn": "不要让恐惧设定你的界限。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Listen to understand, not merely to prepare your reply.",
+    "chinese": "倾听是为了理解，而不只是为了准备回应。",
+    "word": "merely",
+    "phonetic": "/ˈmɪəli/",
+    "meaning": "仅仅；只是",
+    "example": "I want to understand, not merely agree.",
+    "example_cn": "我想理解，而不只是赞同。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A life can be rich without being loud.",
+    "chinese": "人生可以丰盛，却不必喧闹。",
+    "word": "rich",
+    "phonetic": "/rɪtʃ/",
+    "meaning": "丰富的；充实的",
+    "example": "She lives a rich and meaningful life.",
+    "example_cn": "她过着充实而有意义的生活。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The moment you stop comparing paths, you can focus on your own.",
+    "chinese": "当你不再比较彼此的道路，才能专注走好自己的路。",
+    "word": "compare",
+    "phonetic": "/kəmˈpeə(r)/",
+    "meaning": "比较",
+    "example": "Try not to compare your progress with others.",
+    "example_cn": "尽量不要拿自己的进步和别人比较。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Being alone can teach you the difference between solitude and loneliness.",
+    "chinese": "独处能让你明白，宁静独处与孤独并不相同。",
+    "word": "solitude",
+    "phonetic": "/ˈsɒlɪtjuːd/",
+    "meaning": "独处；独居的宁静",
+    "example": "I enjoy solitude when I need to think.",
+    "example_cn": "需要思考时，我喜欢独处。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A thoughtful life leaves room for doubt, wonder, and change.",
+    "chinese": "有思想的人生，会为怀疑、惊奇和改变留出空间。",
+    "word": "thoughtful",
+    "phonetic": "/ˈθɔːtfəl/",
+    "meaning": "深思熟虑的；有思想的",
+    "example": "She gave me a thoughtful answer.",
+    "example_cn": "她给了我一个深思熟虑的回答。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Do not rush to become someone; take time to understand who you are.",
+    "chinese": "不要急着成为某种人，先花时间理解自己是谁。",
+    "word": "rush",
+    "phonetic": "/rʌʃ/",
+    "meaning": "匆忙；急于",
+    "example": "There is no need to rush.",
+    "example_cn": "没有必要着急。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Even a difficult chapter belongs to the story of your life.",
+    "chinese": "即使艰难的篇章，也属于你人生故事的一部分。",
+    "word": "chapter",
+    "phonetic": "/ˈtʃæptə(r)/",
+    "meaning": "篇章；章节",
+    "example": "This is a new chapter in my life.",
+    "example_cn": "这是我人生的新篇章。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The ability to change your mind can be a sign of strength.",
+    "chinese": "能够改变自己的想法，也可能是一种力量的体现。",
+    "word": "sign",
+    "phonetic": "/saɪn/",
+    "meaning": "迹象；标志",
+    "example": "This is a sign of progress.",
+    "example_cn": "这是进步的迹象。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A wise person knows that not every battle deserves their energy.",
+    "chinese": "明智的人知道，并不是每一场争执都值得消耗精力。",
+    "word": "deserve",
+    "phonetic": "/dɪˈzɜːv/",
+    "meaning": "值得；应得",
+    "example": "Your time deserves respect.",
+    "example_cn": "你的时间值得被尊重。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The present moment is the only place where life actually happens.",
+    "chinese": "当下，是生命真正发生的唯一地方。",
+    "word": "present",
+    "phonetic": "/ˈprezənt/",
+    "meaning": "当前的；当下",
+    "example": "Try to stay present during the conversation.",
+    "example_cn": "交谈时尽量专注当下。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "You can be a work in progress and still be worthy of respect.",
+    "chinese": "你可以仍在成长，也依然值得被尊重。",
+    "word": "worthy",
+    "phonetic": "/ˈwɜːði/",
+    "meaning": "值得的；有价值的",
+    "example": "Everyone is worthy of kindness.",
+    "example_cn": "每个人都值得被善待。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A small act of kindness can outlast a grand display of success.",
+    "chinese": "一个小小的善意，可能比盛大的成功展示更长久。",
+    "word": "kindness",
+    "phonetic": "/ˈkaɪndnəs/",
+    "meaning": "善意；仁慈",
+    "example": "Kindness costs very little.",
+    "example_cn": "善意几乎不需要代价。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The goal is not to avoid uncertainty, but to become capable within it.",
+    "chinese": "目标不是逃避不确定性，而是在不确定中变得有能力。",
+    "word": "uncertainty",
+    "phonetic": "/ʌnˈsɜːtnti/",
+    "meaning": "不确定性",
+    "example": "Uncertainty is part of every new beginning.",
+    "example_cn": "不确定性是每个新开始的一部分。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Sometimes clarity arrives only after we take action.",
+    "chinese": "有时，只有先行动，清晰的方向才会出现。",
+    "word": "clarity",
+    "phonetic": "/ˈklærəti/",
+    "meaning": "清晰；明晰",
+    "example": "Writing helps me find clarity.",
+    "example_cn": "写作帮助我理清思路。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Do not mistake a slow season for a wasted one.",
+    "chinese": "不要把缓慢的时期误认为被浪费的时期。",
+    "word": "wasted",
+    "phonetic": "/ˈweɪstɪd/",
+    "meaning": "被浪费的",
+    "example": "No experience is completely wasted.",
+    "example_cn": "没有任何经历是完全浪费的。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The way you treat ordinary days is the way you shape your life.",
+    "chinese": "你如何对待平凡的日子，就如何塑造自己的人生。",
+    "word": "ordinary",
+    "phonetic": "/ˈɔːdnri/",
+    "meaning": "平凡的；普通的",
+    "example": "Ordinary moments deserve attention too.",
+    "example_cn": "平凡的时刻也值得关注。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A good question can be more valuable than a quick answer.",
+    "chinese": "一个好问题，可能比一个快速的答案更有价值。",
+    "word": "valuable",
+    "phonetic": "/ˈvæljuəbl/",
+    "meaning": "有价值的",
+    "example": "Experience is valuable when we learn from it.",
+    "example_cn": "能从中学习的经验才有价值。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "Let experience make you wiser, not harder.",
+    "chinese": "让经历使你更有智慧，而不是变得冷漠坚硬。",
+    "word": "experience",
+    "phonetic": "/ɪkˈspɪəriəns/",
+    "meaning": "经历；经验",
+    "example": "Every experience can teach us something.",
+    "example_cn": "每段经历都能教会我们一些东西。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "You can begin again without pretending the past never happened.",
+    "chinese": "你可以重新开始，而不必假装过去从未发生。",
+    "word": "pretend",
+    "phonetic": "/prɪˈtend/",
+    "meaning": "假装",
+    "example": "You don't have to pretend to be perfect.",
+    "example_cn": "你不必假装自己完美。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The most important conversation may be the one you have with yourself.",
+    "chinese": "最重要的一场对话，可能是你与自己的对话。",
+    "word": "conversation",
+    "phonetic": "/ˌkɒnvəˈseɪʃən/",
+    "meaning": "对话；交谈",
+    "example": "I had an honest conversation with myself.",
+    "example_cn": "我和自己进行了一场坦诚的对话。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A life guided by values can survive changing circumstances.",
+    "chinese": "由价值观指引的人生，能够经受环境变化。",
+    "word": "circumstance",
+    "phonetic": "/ˈsɜːkəmstəns/",
+    "meaning": "环境；情况",
+    "example": "We must adapt to changing circumstances.",
+    "example_cn": "我们必须适应不断变化的环境。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "You do not have to win every argument to protect your peace.",
+    "chinese": "为了守护内心的平静，你不必赢得每一场争论。",
+    "word": "argument",
+    "phonetic": "/ˈɑːɡjumənt/",
+    "meaning": "争论；论点",
+    "example": "Not every argument needs an answer.",
+    "example_cn": "不是每场争论都需要回应。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The more honestly you see yourself, the more freely you can grow.",
+    "chinese": "越诚实地看待自己，就越能自由地成长。",
+    "word": "honestly",
+    "phonetic": "/ˈɒnɪstli/",
+    "meaning": "诚实地；坦率地",
+    "example": "Speak honestly about your feelings.",
+    "example_cn": "坦诚表达自己的感受。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A meaningful direction matters more than a perfect map.",
+    "chinese": "有意义的方向，比一张完美的地图更重要。",
+    "word": "direction",
+    "phonetic": "/dəˈrekʃən/",
+    "meaning": "方向",
+    "example": "Choose a direction and take one step.",
+    "example_cn": "选定方向，然后迈出一步。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "We are shaped by what we remember and what we choose to forget.",
+    "chinese": "我们被记住的事物，以及选择遗忘的事物共同塑造。",
+    "word": "remember",
+    "phonetic": "/rɪˈmembə(r)/",
+    "meaning": "记住；回忆",
+    "example": "I remember the lesson, not just the moment.",
+    "example_cn": "我记住的是教训，而不只是那个瞬间。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The heart needs honesty more than it needs certainty.",
+    "chinese": "内心需要的是真诚，而不只是确定答案。",
+    "word": "certainty",
+    "phonetic": "/ˈsɜːtnti/",
+    "meaning": "确定性；确信",
+    "example": "There is no certainty about the future.",
+    "example_cn": "未来没有绝对的确定性。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A book can open a door that experience has not yet reached.",
+    "chinese": "一本书可以打开一扇经验尚未抵达的门。",
+    "word": "reach",
+    "phonetic": "/riːtʃ/",
+    "meaning": "抵达；达到",
+    "example": "I hope to reach my goals one day.",
+    "example_cn": "我希望有一天实现目标。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The beauty of life often hides in things we stop noticing.",
+    "chinese": "生活的美，常常藏在那些我们不再留意的事物里。",
+    "word": "beauty",
+    "phonetic": "/ˈbjuːti/",
+    "meaning": "美；美好",
+    "example": "There is beauty in simple things.",
+    "example_cn": "简单的事物中也有美。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A thoughtful pause can prevent a careless lifetime of regret.",
+    "chinese": "一次深思熟虑的停顿，可能避免一生草率的遗憾。",
+    "word": "careless",
+    "phonetic": "/ˈkeələs/",
+    "meaning": "粗心的；草率的",
+    "example": "One careless word can hurt someone.",
+    "example_cn": "一句不经意的话可能伤害别人。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "We do not need a perfect life to notice what is beautiful.",
+    "chinese": "我们不需要拥有完美人生，才能看见生活的美。",
+    "word": "notice",
+    "phonetic": "/ˈnəʊtɪs/",
+    "meaning": "注意到；察觉",
+    "example": "Notice the good things around you.",
+    "example_cn": "留意身边美好的事物。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "The courage to be disliked is sometimes the courage to be yourself.",
+    "chinese": "有时，敢于被人不喜欢，就是敢于做自己。",
+    "word": "disliked",
+    "phonetic": "/dɪsˈlaɪkt/",
+    "meaning": "不被喜欢的",
+    "example": "You cannot please everyone.",
+    "example_cn": "你不可能让所有人满意。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "A life with no reflection can become a life lived on autopilot.",
+    "chinese": "从不反思的人生，可能变成一段自动驾驶般的生活。",
+    "word": "reflection",
+    "phonetic": "/rɪˈflekʃən/",
+    "meaning": "反思；思考",
+    "example": "Daily reflection helps me understand myself.",
+    "example_cn": "每日反思帮助我了解自己。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "What matters is not how quickly you arrive, but what you learn along the way.",
+    "chinese": "重要的不是你抵达得多快，而是一路上学到了什么。",
+    "word": "along",
+    "phonetic": "/əˈlɒŋ/",
+    "meaning": "沿着；在……过程中",
+    "example": "I learned a lot along the way.",
+    "example_cn": "一路走来我学到了很多。"
+  },
+  {
+    "category": "人生哲学",
+    "english": "There is no shame in changing direction when you learn more.",
+    "chinese": "当你了解得更多，改变方向并不可耻。",
+    "word": "shame",
+    "phonetic": "/ʃeɪm/",
+    "meaning": "羞耻；遗憾",
+    "example": "There is no shame in asking for help.",
+    "example_cn": "寻求帮助并不可耻。"
+  }
+]
